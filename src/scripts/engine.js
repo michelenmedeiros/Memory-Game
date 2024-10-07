@@ -4,7 +4,7 @@ const images = [
     "./src/image/sailorChibi.jpg",
     "./src/image/sailorChibi.jpg",
     "./src/image/sailorMars.jpg",
-    "./memory-game/src/image/sailorMars.jpg",
+    "./src/image/sailorMars.jpg",
     "./src/image/sailorMercury.jpg",
     "./src/image/sailorMercury.jpg",
     "./src/image/sailorNeptune.jpg",
