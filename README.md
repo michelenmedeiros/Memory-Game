@@ -17,3 +17,6 @@ Clone este repositório para sua máquina local, e abra o arquivo index.html em 
 3. Se as cartas forem iguais, elas permanecem viradas para cima.
 4. Se não forem iguais, as cartas viram novamente.
 4. O objetivo é encontrar todos os pares no menor tempo possível.
+
+![image](https://github.com/user-attachments/assets/51a85c59-6b42-4c8d-a0e3-4c40100ba576)
+
